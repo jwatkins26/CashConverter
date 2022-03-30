@@ -18,9 +18,10 @@ class Cash_converter:
 
 
 if __name__ == "__main__":
-    ACCESS_KEY = '****************'
+    ACCESS_KEY = '  '
     url = f'http://data.fixer.io/api/latest?access_key={ACCESS_KEY}'
     c = Cash_converter(url)
+    print('===Please use ISO currency code.===')
     from_country = input('Starting Country >>> ')
     to_country = input('End Country >>> ')
     amount = int(input('Amount >>> '))
