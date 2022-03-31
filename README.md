@@ -1,6 +1,6 @@
 # CashConverter
 
-### A simple program to convert different currencies based on the latest conversion rates. Using an API from fixer.io
+### A program to convert different currencies based on the latest conversion rates. Using an API from fixer.io
  
 ---
 
@@ -29,25 +29,25 @@ BGN | Bulgarian Lev | Bulgaria
 BHD | Bahraini Dinar | Bahrain  
 BIF | Burundi Franc | Burundi  
 BMD | Bermudian Dollar | Bermuda  
-BND Brunei Dollar Brunei Darussalam  
-BOB Boliviano Bolivia (Plurinat.State)  
-BRL Brazilian Real Brazil  
-BSD Bahamian Dollar Bahamas  
-BTN Ngultrum Bhutan  
-BWP Pula Botswana  
-BYN Belarusian Ruble Belarus  
-BZD Belize Dollar Belize  
-CAD Canadian Dollar Canada  
-CDF Congolese Franc Congo, Dem. Rep. of the
-CHF Swiss Franc Liechtenstein  
-CHF Swiss Franc Switzerland  
-CLP Chilean Peso Chile  
-CNY Yuan Renminbi China  
-COP Colombian Peso Colombia  
-CRC Costa Rican Colón Costa Rica  
-CUP Cuban Peso Cuba  
-CVE Cabo Verde Escudo Cabo Verde  
-CZK Czech Koruna Czechia  
+BND | Brunei Dollar | Brunei Darussalam  
+BOB | Boliviano | Bolivia  
+BRL | Brazilian Real | Brazil  
+BSD | Bahamian Dollar | Bahamas  
+BTN | Ngultrum | Bhutan  
+BWP | Pula | Botswana  
+BYN | Belarusian Ruble | Belarus  
+BZD | Belize Dollar | Belize  
+CAD | Canadian Dollar | Canada  
+CDF | Congolese Franc | Congo, Dem. Rep. of the
+CHF | Swiss Franc | Liechtenstein  
+CHF | Swiss Franc | Switzerland  
+CLP | Chilean Peso | Chile  
+CNY | Yuan Renminbi | China  
+COP | Colombian Peso | Colombia  
+CRC | Costa Rican Colón | Costa Rica  
+CUP | Cuban Peso | Cuba  
+CVE | Cabo Verde Escudo | Cabo Verde  
+CZK | Czech Koruna | Czechia  
 DJF Djibouti Franc Djibouti  
 DKK Danish Krone Denmark  
 DKK Danish Krone Faroe Islands  
