@@ -242,4 +242,4 @@ XPF | CFP Franc | Wallis and Futuna Is.
 YER | Yemeni Rial | Yemen  
 ZAR | Rand | South Africa  
 ZMW | Zambian Kwacha | Zambia  
-ZWL | Zimbabwe Dollar | Zimbabwe  
+ZWL | Zimbabwe Dollar | Zimbabwe  .
